@@ -1,0 +1,8 @@
+scikit-learn
+streamlit 
+# openai
+# huggingface-transformers
+google-generativeai
+dotenv
+gtts
+google-genai
