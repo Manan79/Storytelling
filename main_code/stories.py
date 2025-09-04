@@ -323,7 +323,7 @@ with st.sidebar:
     st.markdown(
         """
         <div style="text-align: center;">
-            <p>Made with ❤️ by Manan</p>
+            <p>Made with ❤️ by Sakshi</p>
         </div>
         """, 
         unsafe_allow_html=True
